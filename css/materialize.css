@@ -4837,10 +4837,6 @@ small {
   font-weight: bold;
 }
 
-.card-title {
-  color: black;
-}
-
 .card .card-title.activator {
   cursor: pointer;
 }
